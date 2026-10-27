@@ -15,7 +15,7 @@ export const profile = {
 };
 
 export const stats = [
-  { value: "700+", label: "DSA problems solved on LeetCode" },
+  { value: "800+", label: "DSA problems solved on LeetCode" },
   { value: "1850+", label: "LeetCode contest rating" },
   { value: "Top 10", label: "of 120+ teams, HackO'Clock national hackathon" },
   { value: "1", label: "research paper published on SSRN" },
@@ -276,7 +276,7 @@ export const education = {
 };
 
 export const achievements = [
-  "700+ DSA problems solved on LeetCode, contest rating 1850+",
+  "800+ DSA problems solved on LeetCode, contest rating 1850+",
   "Top 10 finalist among 120+ teams at HackO'Clock national hackathon",
   'Published research on SSRN: "Predicting Growth-Induced Financial Collapse of SMEs Using Structural Cash-Flow Stress Modeling"',
 ];

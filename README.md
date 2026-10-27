@@ -43,7 +43,7 @@ Full write-ups for each — problem, approach, stack — are in the case-study d
 
 ## A few marks worth noting
 
-- 700+ DSA problems solved on LeetCode, 1850+ contest rating
+- 800+ DSA problems solved on LeetCode, 1850+ contest rating
 - Top 10 finalist among 120+ teams at HackO'Clock national hackathon
 - Published on SSRN: *"Predicting Growth-Induced Financial Collapse of SMEs Using Structural Cash-Flow Stress Modeling"*
 

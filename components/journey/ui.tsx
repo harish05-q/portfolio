@@ -85,7 +85,7 @@ export function ProjectLinks({ project }: { project: Project }) {
   );
 }
 
-/** Counts up the number inside strings like "700+", "1850+" or "Top 10". */
+/** Counts up the number inside strings like "800+", "1850+" or "Top 10". */
 export function CountUp({ value, reduced }: { value: string; reduced: boolean }) {
   const match = value.match(/^(\D*)(\d+)(.*)$/);
   const target = match ? Number(match[2]) : 0;

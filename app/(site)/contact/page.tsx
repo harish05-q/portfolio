@@ -26,7 +26,7 @@ const channels = [
   },
   {
     label: "LeetCode",
-    value: "700+ problems, 1900 rating",
+    value: "800+ problems, 1900 rating",
     href: profile.links.leetcode,
     icon: FaCode,
   },

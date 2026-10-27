@@ -215,7 +215,7 @@ export const incidentLog: LogEntry[] = [
     level: "WIN",
     group: "wins",
     tag: "ALGO",
-    title: "700+ DSA problems solved · LeetCode contest rating 1850+",
+    title: "800+ DSA problems solved · LeetCode contest rating 1850+",
     detail:
       "Competitive problem solving keeps the fundamentals sharp: complexity, edge cases and clean invariants.",
     href: profile.links.leetcode,
