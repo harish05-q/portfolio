@@ -60,3 +60,7 @@ npm install && npm run dev
 ## License
 
 MIT — see [`LICENSE`](LICENSE).
+
+## Homepage
+
+The homepage serves `public/portfolio/index.html` using the root rewrite in `next.config.ts`. Its styles, project data and animated scenes live in `public/portfolio/style.css` and `public/portfolio/app.js`; the downloadable résumé is `public/portfolio/resume.pdf`. The other Next.js routes remain available.
